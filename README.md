@@ -5,3 +5,4 @@
 3. Custom Video Player
 4. Exchange Rate
 5. DOM Array Methods
+6. Modal Menu Slider
