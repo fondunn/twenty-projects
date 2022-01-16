@@ -7,3 +7,4 @@
 5. DOM Array Methods
 6. Modal Menu Slider
 7. Hangman Game
+8. Meal Finder
