@@ -8,3 +8,4 @@
 6. Modal Menu Slider
 7. Hangman Game
 8. Meal Finder
+9. Expense Tracker
